@@ -1,0 +1,25 @@
+h1 {
+	 text-align: center;
+	 color: blue;
+	 font-size: 100px;
+	 font-family: century;
+}
+
+.immagine {
+	padding-right: 80px;
+	padding-left: 80px;
+	border-width: 10px;
+	border-color: blue;
+}
+
+#video {
+		border-color: white;
+		background: lightblue;
+	 	text-align: center;
+}
+
+.bottone {
+
+		color: red;
+		font: arial;
+}
